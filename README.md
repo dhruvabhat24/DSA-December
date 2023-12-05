@@ -4,3 +4,4 @@ An Event organised by our college in which daily one DSA question from leetcode 
 2. Repeated String Match
 3. Reverse Vowels of a String
 4. Backspace String Compare
+5. Merge Sorted Array 
