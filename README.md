@@ -6,3 +6,4 @@ An Event organised by our college in which daily one DSA question from leetcode 
 4. Backspace String Compare
 5. Merge Sorted Array
 6. Remove Duplicates from Sorted Array
+7. Majority Element
