@@ -8,3 +8,4 @@ An Event organised by our college in which daily one DSA question from leetcode 
 6. Remove Duplicates from Sorted Array
 7. Majority Element
 8. Roman to Integer
+9. Longest Common Prefix
