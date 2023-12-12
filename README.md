@@ -11,3 +11,4 @@ An Event organised by our college in which daily one DSA question from leetcode 
 9. Longest Common Prefix
 10. Valid Palindrome
 11. Is Subsequence
+12. Two Sum
