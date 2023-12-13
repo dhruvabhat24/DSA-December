@@ -12,3 +12,4 @@ An Event organised by our college in which daily one DSA question from leetcode 
 10. Valid Palindrome
 11. Is Subsequence
 12. Two Sum
+13. Happy Number
