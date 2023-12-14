@@ -13,3 +13,4 @@ An Event organised by our college in which daily one DSA question from leetcode 
 11. Is Subsequence
 12. Two Sum
 13. Happy Number
+14. Ransom Note
