@@ -16,3 +16,4 @@ An Event organised by our college in which daily one DSA question from leetcode 
 14. Ransom Note
 15. Isomorphic Strings
 16. Word Pattern
+17. Contains Duplicate II
