@@ -23,3 +23,4 @@ An Event organised by our college in which daily one DSA question from leetcode 
 21. Maximum Depth of Binary Tree
 23. Same Tree
 24. Invert Binary Tree
+25. Symmetric Tree
