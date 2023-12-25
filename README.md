@@ -21,6 +21,7 @@ An Event organised by our college in which daily one DSA question from leetcode 
 19. Linked List Cycle
 20. Merge Two Sorted Lists
 21. Maximum Depth of Binary Tree
-23. Same Tree
-24. Invert Binary Tree
-25. Symmetric Tree
+22. Same Tree
+23. Invert Binary Tree
+24. Symmetric Tree
+25. Path Sum
