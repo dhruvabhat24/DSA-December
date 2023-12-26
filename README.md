@@ -25,3 +25,4 @@ An Event organised by our college in which daily one DSA question from leetcode 
 23. Invert Binary Tree
 24. Symmetric Tree
 25. Path Sum
+26. Count Complete Tree Nodes
