@@ -26,3 +26,4 @@ An Event organised by our college in which daily one DSA question from leetcode 
 24. Symmetric Tree
 25. Path Sum
 26. Count Complete Tree Nodes
+27. Average of Levels in Binary Tree
