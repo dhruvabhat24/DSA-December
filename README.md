@@ -28,3 +28,4 @@ An Event organised by our college in which daily one DSA question from leetcode 
 26. Count Complete Tree Nodes
 27. Average of Levels in Binary Tree
 28. Convert Sorted Array to Binary Search Tree
+29. Plus One
