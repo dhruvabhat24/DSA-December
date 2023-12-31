@@ -30,3 +30,4 @@ An Event organised by our college in which daily one DSA question from leetcode 
 28. Convert Sorted Array to Binary Search Tree
 29. Plus One
 30. Add Binary
+31. Reverse Bits
